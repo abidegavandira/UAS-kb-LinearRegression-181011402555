@@ -1,1 +1,4 @@
 # UAS KECERDASAN BUATAN
+Nama  : Abi Dega Vandira
+NIM   : 181011402555
+Kelas : 06TPLM005
